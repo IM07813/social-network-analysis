@@ -1,0 +1,5 @@
+This code is an example of Social Network Analysis (SNA) applied to a dataset of email communications. 
+The dataset, EN_EMAILS_Enron_10k-1.csv, contains information about the email interactions between users. 
+The main objective is to analyse the relationships between users and calculate various centrality metrics like PageRank,
+Betweenness Centrality, and the ratio of In-degree to Out-degree. The code also involves community detection using
+Greedy Modularity Maximization and visualization of the network graph and the calculated metrics using Seaborn and Matplotlib.
